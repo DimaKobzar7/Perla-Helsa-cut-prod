@@ -5,4 +5,4 @@ Pieces of code that were repeated (such as product pages) were removed.
 
 Technology stack: Vue3, Nuxt3, Vite, Pinia, SCSS, Bootstrap 5.
 
-[Preview](https://perlahelsa.ua/)
+[Link to full site](https://perlahelsa.ua/)
